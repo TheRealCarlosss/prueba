@@ -1,3 +1,5 @@
+print("hola")
+
 #---------------------------------Creando Clase donde se almacenaran todos los datos-----------------------------
 """
 class Shopping_Kart:
